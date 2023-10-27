@@ -21,4 +21,5 @@ Dafür Win + R drücken, cmd eingeben, mit Enter bestätigen.
 Einstellungen -> Gamecube -> SP1 -> Broadband Adapter (HLE)
 <br>
 <img src="/Images/settings_gamecube.png" alt="Gamecube Settings" width="350"/>
+<br>
 Dann auf die drei Punkte daneben klicken und die IP-Adresse des Standardgateways eingeben.
