@@ -10,13 +10,15 @@
 -- [Zandig (Version > 2.8](https://www.zandig.com)
 - Optional: [100% Spielstand von Mario Kart Double Dash!!](https://www.spielstand)
 
-### 1. Dolphin-Setup
+### 1. Dolphin-Setup für LAN-Modus
 
 *Vorab*
 IP-Adresse des lokalen DNS-Servers (meist der Router) herausfinden.
 Dafür Win + R drücken, cmd eingeben, mit Enter bestätigen.
-`ipconfig` eingeben, die IP-Adresse von Standardgateway des verbundenen Netzwerks  kopieren.
+`ipconfig` eingeben, die IP-Adresse des Standardgateways des verbundenen Netzwerks  kopieren.
 
 *In Dolphin:*
 Einstellungen -> Gamecube -> SP1 -> Broadband Adapter (HLE)
-<img src="/Images/settings_gamecube.png" alt="Gamecube Settings" width="200"/>
+<br>
+<img src="/Images/settings_gamecube.png" alt="Gamecube Settings" width="350"/>
+Dann auf die drei Punkte daneben klicken und die IP-Adresse des Standardgateways eingeben.
