@@ -19,4 +19,4 @@ Dafür Win + R drücken, cmd eingeben, mit Enter bestätigen.
 
 *In Dolphin:*
 Einstellungen -> Gamecube -> SP1 -> Broadband Adapter (HLE)
-![Gamecube_Settings](/Images/settings_gamecube.png)
+<img src="/Images/settings_gamecube.png" alt="Gamecube Settings" width="200"/>
